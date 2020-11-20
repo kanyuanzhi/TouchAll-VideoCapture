@@ -1,0 +1,12 @@
+{
+  "camera_host": "0",
+  "data_center": {
+    "host": "localhost",
+    "port": 9090
+  },
+  "video_server": {
+    "host": "localhost",
+    "port": 9080
+  },
+  "image_quality": 30
+}
